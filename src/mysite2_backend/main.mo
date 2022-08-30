@@ -12,6 +12,6 @@ actor {
     "fib(" # Nat.toText(n)# ") = "# Nat.toText(fib(n))
   };
   public func greet(name : Text) : async Text {
-    return "Hello 1234567, " # name # "!";
+    return "Hello 12345678, " # name # "!";
   };
 };
